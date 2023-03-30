@@ -27,3 +27,5 @@ func (u *UserList) Add(user User) {
 func (r *UserList) GetUsers() []User {
 	return r.Users
 }
+
+//test
